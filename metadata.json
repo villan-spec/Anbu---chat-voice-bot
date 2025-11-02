@@ -1,0 +1,7 @@
+{
+  "name": "Anbu: Tamil AI Chatbot",
+  "description": "A responsive Tamil voice and text chatbot that uses the Gemini API to provide conversational AI in Tamil. Users can interact with voice or text, and receive responses in both formats.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
